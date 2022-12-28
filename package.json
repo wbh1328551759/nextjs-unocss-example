@@ -1,7 +1,8 @@
 {
-  "name": "nextjs-unocss-demo-1",
+  "name": "nextjs-unocss-example",
   "version": "0.1.0",
   "private": true,
+  "keywords": ["next.js", "unocss", "css", "react", "ssr"],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
